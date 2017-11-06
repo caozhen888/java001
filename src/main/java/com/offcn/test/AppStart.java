@@ -2,7 +2,11 @@ package com.offcn.test;
 
 import com.offcn.HelloWebservice;
 import com.offcn.HelloWebserviceService;
-
+/**
+ * javaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ * @author ibm
+ *
+ */
 public class AppStart {
 
 	public static void main(String[] args) {
